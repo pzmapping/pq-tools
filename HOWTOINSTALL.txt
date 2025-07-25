@@ -1,0 +1,14 @@
+Installation Guide
+
+These tools are intended for Build 42
+
+Installation:
+Place LuaTools.txt in the TileD folder.
+
+Copy the contents of the lua folder into TileD/lua.
+
+With love,
+Pabbiqo
+
+- Random Blood, Cracks & Trash tools from **BeeArr** (with permission)  
+👉 https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main
