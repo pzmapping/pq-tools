@@ -11,8 +11,8 @@ Developed by **Pabbiqo**, part of the **Unofficial PZ Mapping Discord**.
 
 ## 🔧 Installation (Build 42)
 
-1. Copy `LuaTools.txt` into your `TileZed/` folder  
-2. Copy the contents of the `lua/` folder into `TileZed/lua/`  
+1. Copy `LuaTools.txt` into your `TileD` folder  
+2. Copy the contents of the `lua/` folder into `TileD/lua/`  
 3. Open Tiled – you’ll find new options in the tool menu
 
 ---
