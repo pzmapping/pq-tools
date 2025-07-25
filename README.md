@@ -5,6 +5,8 @@ This project is developed by Pabbiqo from Unofficial PZ Mapping Discord.
 
 Version 07/2025 - v2
 
+---
+
 Installation (B42)
 
 Copy LuaTools.txt into your TileZed/ folder.
@@ -13,7 +15,7 @@ Copy the contents of the lua/ folder into TileZed/lua/.
 
 Done. You’ll find new options in Tiled’s tool menu.
 
-—
+---
 Used Tools from BeeArr - used with permission. Credit where its due.
 
 Random Blood, Cracks & Trash tools from BeeArr
