@@ -1,25 +1,32 @@
-pq-tools is a set of tools for Tiled, built to help making Maps for PZ (B42).
-Originally made for personal use, these tools simplify tile placement — like scattering cracks, random blood, or placing the new B42 boulders.
+# pq-tools
 
-This project is developed by Pabbiqo from Unofficial PZ Mapping Discord.
+**pq-tools** is a set of tools for **Tiled**, made to help making maps for *Project Zomboid* (Build 42).  
+Originally created for personal use, these tools simplify tile placement — like scattering cracks, random blood, or placing the new B42 boulders.
 
-Version 07/2025 - v2
+Developed by **Pabbiqo**, part of the **Unofficial PZ Mapping Discord**.
+
+**Version:** July 2025 – v2
+
+---
+
+## 🔧 Installation (Build 42)
+
+1. Copy `LuaTools.txt` into your `TileZed/` folder  
+2. Copy the contents of the `lua/` folder into `TileZed/lua/`  
+3. Open Tiled – you’ll find new options in the tool menu
 
 ---
 
-Installation (B42)
+## 🧱 What's inside?
 
-Copy LuaTools.txt into your TileZed/ folder.
+- **Random Blood, Cracks & Trash tools**  
+  *(originally made by [BeeArr](https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main) – used with permission)* Thank you!
 
-Copy the contents of the lua/ folder into TileZed/lua/.
+- **Boulder tools** for new B42 Boulders
 
-Done. You’ll find new options in Tiled’s tool menu.
+- **Randoms Tool** *(WIP – early version, limited content)*
 
 ---
-Used Tools from BeeArr - used with permission. Credit where its due.
 
-Random Blood, Cracks & Trash tools from BeeArr
-👉 https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main <- B41 Tools
-
-With love,
-Pabbiqo
+With love,  
+**Pabbiqo**
