@@ -26,6 +26,10 @@ Developed by **Pabbiqo**, part of the **Unofficial PZ Mapping Discord**.
 
 - **Randoms Tool** *(WIP – early version, limited content)*
 
+- **more Fences Tool** adds 5 Fences - more coming
+
+- **Parking Stall** it draws now 5 instead of 4 lines
+
 ---
 
 With love,  
