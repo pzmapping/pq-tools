@@ -26,6 +26,14 @@ tool
 
 tool
 {
+    label = More Fences
+    icon = tool-morefences.png
+    script = tool-morefences.lua
+    dialog-title = More Fences
+}
+
+tool
+{
     label = Parking Stall
     icon = tool-parking-stall.png
     script = tool-parking-stall.lua
