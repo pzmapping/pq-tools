@@ -5,7 +5,7 @@ Originally created for personal use, these tools simplify tile placement — lik
 
 Developed by **Pabbiqo**, part of the **Unofficial PZ Mapping Discord**.
 
-**Version:** July 2025 – v2
+**Version:** August 2025 – v3
 
 ---
 
