@@ -32,5 +32,7 @@ Developed by **Pabbiqo**, part of the **Unofficial PZ Mapping Discord**.
 
 ---
 
+Some tools can rotate objects—except the random ones. Hold Alt, Ctrl, or Shift to rotate the object, but only if it has different orientation versions available.
+
 With love,  
 **Pabbiqo**
