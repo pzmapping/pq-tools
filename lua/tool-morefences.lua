@@ -1,4 +1,8 @@
--- Fence Tool Edited by BeeArr#8231 // https://github.com/TheBeeArr/beearr-tiles-and-tools/ // GNU General Public License v3 (GPL-3)
+--[[
+    pq-tools - more Fences Tool
+    Author: Pabbiqo
+    Repository: https://github.com/pzmapping/pq-tools
+]]
 
 local DATA = {}
 function fence(f) DATA[#DATA+1] = f end

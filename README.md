@@ -1,38 +1,75 @@
+
 # pq-tools
 
-**pq-tools** is a set of tools for **Tiled**, made to help making maps for *Project Zomboid* (Build 42).  
-Originally created for personal use, these tools simplify tile placement — like scattering cracks, random blood, or placing the new B42 boulders.
+pq-tools is a set of Tiled tools designed to speed up map-making for the Mapping Tools (Build 42). Originally a personal project, it simplifies tile placement for cracks, random blood, and the new B42 boulders.
 
-Developed by **Pabbiqo**, part of the **Unofficial PZ Mapping Discord**.
 
-**Version:** August 2025 – v3
+by Pabbiqo, from the Unofficial PZ Mapping Discord community.
 
----
 
-## 🔧 Installation (Build 42)
+Version: August 2025 – v4
 
-1. Copy `LuaTools.txt` into your `TileD` folder  
-2. Copy the contents of the `lua/` folder into `TileD/lua/`  
-3. Open Tiled – you’ll find new options in the tool menu
+
+!\[pq-tools](images/toolbar.png)
+
 
 ---
 
-## 🧱 What's inside?
+\## 🔧 Installation (Build 42)
 
-- **Random Blood, Cracks & Trash tools**  
-  *(originally made by [BeeArr](https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main) – used with permission)* Thank you!
 
-- **Boulder tools** for new B42 Boulders
+1\. Put LuaTools.txt into your Tiled folder.  
 
-- **Randoms Tool** *(WIP – early version, limited content)*
+2\. Delete everything inside Tiled/lua first to avoid conflicts.  
 
-- **more Fences Tool** adds 5 Fences - more coming
+3\. Copy the files from the ZIP; B42.Mapping.Tools.zip\TileD\lua into your `Tiled/lua`.
+you can find them here again: https://github.com/Unjammer/WorldEd/releases  
 
-- **Parking Stall** it draws now 5 instead of 4 lines
+4\. Then copy all the \*\*pq-tools\*\* Lua files from the Folder \*\*lua\*\* into `Tiled/lua`.
+
+
+Since I changed a lot over the last versions, starting fresh this way prevents conflicts. The pq-tools Lua files are almost independent now.
+
+If you copy over pq-tools, only the files **parking-stall** and **tool-four-directions** should pop up  
+“Do you want to replace these files?”
+
 
 ---
 
-Some tools can rotate objects—except the random ones. Hold Alt, Ctrl, or Shift to rotate the object, but only if it has different orientation versions available.
 
-With love,  
-**Pabbiqo**
+\## Features
+
+
+\- \*\*Parking Stall Tool:\*\* Draws 5 lines instead of 4 for more precise parking spots  
+
+\- \*\*More Fences Tool:\*\* Adds all fence types plus powerlines in one go  
+
+\- \*\*Greens Tool:\*\* Quickly place hedges, vines, and bushes to add life  
+
+\- \*\*Decoration Tool:\*\* Fast placement of garden, street, and trash container decorations  
+
+\- \*\*Decoration Tool Multi:\*\* Handles multi-tile objects like slides, sandpiles, and holes  
+
+\- \*\*Boulder Tools:\*\* Easy placement of the new B42 boulders  
+
+\- \*\*Random Blood, Cracks \& Trash Tools:\*\*  
+
+&nbsp; \*(Originally by \[BeeArr](https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main), used with permission)\*
+
+---
+
+**Variants and rotations? Covered.**
+
+Many tools come with variants and support different orientations.
+
+Hold **Alt**, **Ctrl**, or **Shift** to rotate objects where supported.  
+Some also cycle through models when you click, hold the mouse button, and drag—like short lamp posts.
+
+Random tools don’t rotate (those with a dice icon—the randomness stays random).
+
+---
+
+Built with ❤️ and zero fluff,  
+
+\*\*Pabbiqo\*\*
+

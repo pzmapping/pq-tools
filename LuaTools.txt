@@ -26,14 +26,6 @@ tool
 
 tool
 {
-    label = More Fences
-    icon = tool-morefences.png
-    script = tool-morefences.lua
-    dialog-title = More Fences
-}
-
-tool
-{
     label = Parking Stall
     icon = tool-parking-stall.png
     script = tool-parking-stall.lua
@@ -56,18 +48,42 @@ tool
 
 tool
 {
-    label = Boulders
-    icon = tool-boulders.png
-    script = tool-boulders.lua
-    dialog-title = Boulders
+    label = More Fences
+    icon = tool-morefences.png
+    script = tool-morefences.lua
+    dialog-title = More Fences
 }
 
 tool
 {
-    label = Randoms
-    icon = tool-randoms.png
-    script = tool-randoms.lua
-    dialog-title = Randoms-Tool
+    label = Greens
+    icon = tool-greens.png
+    script = tool-greens.lua
+    dialog-title = Greens
+}
+
+tool
+{
+    label = General Decoration
+    icon = tool-decoration.png
+    script = tool-decoration.lua
+    dialog-title = General Decoration
+}
+
+tool
+{
+    label = General Decoration Multitile
+    icon = tool-decoration-multi.png
+    script = tool-decoration-multi.lua
+    dialog-title = General Decoration Multitile
+}
+
+tool
+{
+    label = Boulders
+    icon = tool-boulders.png
+    script = tool-boulders.lua
+    dialog-title = Boulders
 }
 
 tool

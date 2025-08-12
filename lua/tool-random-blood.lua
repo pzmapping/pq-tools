@@ -2,11 +2,12 @@
     Blood Tool Created by BeeArr#8231
     https://github.com/TheBeeArr/beearr-tiles-and-tools/
     Licensed under the GNU General Public License v3 (GPL-3)
-    
+
     Parts of this framework are used here with permission from BeeArr.
     Modified and used by Pabbiqo.
     The original author's rights are fully retained.
 ]]
+
 
 PLANTS = {
 	'overlay_blood_floor_01_0',

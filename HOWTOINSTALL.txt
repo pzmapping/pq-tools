@@ -1,14 +1,18 @@
 Installation Guide
 
-These tools are intended for Build 42
+These tools are made for Build 42.
 
-Installation:
-Place LuaTools.txt in the TileD folder.
+🔧 Installation (Build 42)
 
-Copy the contents of the lua folder into TileD/lua.
+1. Put LuaTools.txt into your Tiled folder.  
+2. Delete everything inside Tiled/lua first to avoid conflicts.  
+3. Copy the files from the Folder **Original Lua** into `Tiled/lua`.  
+4. Then copy all the **pq-tools** Lua files from the Folder **Lua** into the same folder.
 
-With love,
+Since i changed a lot over the last versions, starting fresh this way prevents conflicts. The pq-tools Lua files are fully independent now. If you copy over pq-tools, no files should need to be replaced, so you wont get any “Do you want to replace these files?” prompts.
+
+Built with ❤️ and zero fluff, 
 Pabbiqo
 
-- Random Blood, Cracks & Trash tools from **BeeArr** (with permission)  
+Random Blood, Cracks & Trash tools from BeeArr (with permission)
 👉 https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main

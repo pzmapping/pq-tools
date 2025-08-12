@@ -1,11 +1,11 @@
 --[[
-    Trash Tool Created by BeeArr#8231
+    Trash Tool by BeeArr#8231
     https://github.com/TheBeeArr/beearr-tiles-and-tools/
-    Licensed under the GNU General Public License v3 (GPL-3)
-    
-    Parts of this framework are used here with permission from BeeArr.
-    Modified and used by Pabbiqo.
-    The original author's rights are fully retained.
+    Licensed under GNU GPL v3
+
+    Used here with permission from BeeArr.
+    Modified by Pabbiqo.
+    Original rights fully retained.
 ]]
 PLANTS = {
 	'trash_01_02',
