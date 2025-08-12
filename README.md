@@ -5,7 +5,7 @@ pq-tools is a set of Tiled tools designed to speed up map-making for the Mapping
 
 by Pabbiqo, from the Unofficial PZ Mapping Discord community.
 
-Version: August 2025 – v4.1
+Version: August 2025 – v4.0
 
 ![pq-tools](./images/toolbar.png)
 
