@@ -10,7 +10,7 @@ by Pabbiqo, from the Unofficial PZ Mapping Discord community.
 Version: August 2025 – v4
 
 
-!\[pq-tools](images/toolbar.png)
+![pq-tools](./images/toolbar.png)
 
 
 ---
