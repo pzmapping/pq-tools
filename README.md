@@ -33,7 +33,7 @@ If you copy over pq-tools, only the files **parking-stall** and **tool-four-dire
 - **Greens Tool:** Quickly place hedges, vines, and bushes to add life  
 - **Decoration Tool:** Fast placement of garden, street, and trash container decorations  
 - **Decoration Tool Multi:** Handles multi-tile objects like slides, sandpiles, and holes  
-- **Boulder Tools:** Easy placement of the new B42 boulders  
+- **Boulder Tool:** Easy placement of the new B42 boulders  
 - **Random Blood, Cracks & Trash Tools:**  
   *(Originally by [BeeArr](https://github.com/TheBeeArr/beearr-tiles-and-tools/tree/main), used with permission)*
 
